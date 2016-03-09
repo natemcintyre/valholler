@@ -1,8 +1,7 @@
 {
     "name": "valholler",
     "version": "1.0.0",
-    "description": "",
-    "main": "application.js",
+    "description": "A simple Twitter bot built for scraping and posting out ski resort conditions.",
     "author": "Nate McIntyre <natemcintyre@gmail.com>",
     "dependencies": {
         "phantom": "latest",
