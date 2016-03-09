@@ -1,0 +1,13 @@
+{
+    "name": "valholler",
+    "version": "1.0.0",
+    "description": "",
+    "main": "application.js",
+    "author": "Nate McIntyre <natemcintyre@gmail.com>",
+    "dependencies": {
+        "phantom": "latest",
+        "cheerio": "latest",
+        "moment": "latest",
+        "twitter": "latest"
+    }
+}
